@@ -1,2 +1,3 @@
-# .github
-mental-health-enterprise
+# .github/README
+
+## .mental-health-enterprise
